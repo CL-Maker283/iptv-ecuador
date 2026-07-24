@@ -13,3 +13,34 @@ Aquí encontrarás los Canales disponibles con 6 Listas disponibles para que lo 
 ### IPTV-Ecuador-New: Novedades
 
 Se ingresa E! Entertainment en los apartados de international-ecuador.m3u y streamings-ecuador-all.m3u
+
+# Listas iptv disponibles:
+## Listas City:
+### Lista Quayaqui:
+<table>
+  <thead>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>M3U Argentina</td><td nowrap><code>https://iptv-ecuador/streamscity/guayaqui.m3u</code></td></tr>
+  </tbody>
+</table>
+### Lista Quito:
+<table>
+  <thead>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>M3U Argentina</td><td nowrap><code>https://iptv-ecuador/streamscity/quito.m3u</code></td></tr>
+  </tbody>
+</table>
+## Listas Abiertas:
+### Lista Quayaqui:
+<table>
+  <thead>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>M3U Argentina</td><td nowrap><code>https://iptv-ecuador/streams/guayaqui.m3u</code></td></tr>
+  </tbody>
+</table>
